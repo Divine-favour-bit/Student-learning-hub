@@ -1,0 +1,8 @@
+{
+  "name": "Student Resource Hub",
+  "description": "An all-in-one digital campus platform for university and college students to access learning materials, plan study schedules, calculate GPA, track tasks, and collaborate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
